@@ -23,7 +23,7 @@ app.use(cors());
 app.use("/api/v1/response", responseRouter);
 
 app.get("/", (req, res) => {
-  res.send("project is ss  on");
+  res.send("server is working");
 });
 
 app.use(notFoundMiddleware);
