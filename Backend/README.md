@@ -4,7 +4,7 @@
 - Clone the repository.
 
 ```
-git clone https://github.com/safil-badarudeen/Eqaim-Technology_assignment-Backend.git
+git clone 
 ```
 - Navigate to folder
 ```
